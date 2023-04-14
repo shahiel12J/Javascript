@@ -1,0 +1,18 @@
+body {
+    background-image: linear-gradient(to right, rgb(232, 122, 221) , rgb(124, 7, 56));
+    text-align: center;
+    padding: 100px;
+  }
+
+.contain{
+    background-color: white;
+    padding-bottom: 15px;
+    border-radius: 20px;
+}
+
+.head{
+    color: white;
+    background-color: black;
+    padding: 5px;
+    border-radius: 20px 20px 0px 0px;
+}
